@@ -1,1 +1,1 @@
-# aerospace-composite-optimizer
+# cfrp-wing-optimization-ml
